@@ -22,7 +22,7 @@ app.post("/", function(req, res){
             to: fiat,
             amount: amount
         }
-    };
+    }
     
     request(options, function(error, response, body){
         let data = JSON.parse(body);//parsing the json object as js
@@ -32,12 +32,13 @@ app.post("/", function(req, res){
 
         let currentDate = data.time;
 
-    })
+   
     res.write("<p>The current datetime is "+ currentDate +"  </p>")
     res.write("<h1>" + amount + crypto + " is currently worth "+ price + fiat +" </h1>")
     res.send()
     
     })
+})
 
 
 app.listen(3000, function() {
