@@ -22,6 +22,12 @@ Users enter the currency to exchange and chose bitcoin as the coin to convert to
 
 our app provides service from bitcoin average api and provides us with the current market rate.
 
+# npm install
+run npm install to install all dependencies
+
+# npm start
+npm start to run app
+
 #API 
 #Bitcoin-Average 
 #Nodejs 
