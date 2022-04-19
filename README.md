@@ -1,15 +1,31 @@
 # exchangeApp
 
-#An Exchange Api Application 
+An Exchange Api Application 
 
-#An app biult on nodejs engine and Ejs. 
+# App Engine
 
-#Consumes the services of bitcoin Average api.
+An app biult on nodejs engine and Ejs. 
 
-#Created to make available echange rates of bitcoin for conversion into different currency at available market rate using Api of bitcoin average server. 
+# Api
 
-#Users enter the currency to exchange and chose bitcoin as the coin to convert to.
+app consumes the services of bitcoin Average api.
 
-#our app provides service from bitcoin average api and provides us with the current market rate.
+# Conversion
 
-#API #Bitcoin-Average #Nodejs #Ejs #Javascript #Bootstrap #CSS
+Created to make available echange rates of bitcoin for conversion into different currency at available market rate using Api of bitcoin average server. 
+
+# Usability
+
+Users enter the currency to exchange and chose bitcoin as the coin to convert to.
+
+# Services
+
+our app provides service from bitcoin average api and provides us with the current market rate.
+
+#API 
+#Bitcoin-Average 
+#Nodejs 
+#Ejs 
+#Javascript 
+#Bootstrap 
+S#CSS
